@@ -155,7 +155,7 @@ nav ul li a { /*text*/
         margin:  0px;
         margin-top: -50px;
 /*        margin-left: 100px;*/
-        margin-left: 32vw;
+        margin-left: 28vw;
         margin-right: 0px;
         height: 80px;
 /*        float: left;*/
@@ -239,7 +239,7 @@ body {
 .ebook1
 {
     margin-top: 0px;
-    padding: 0px;
+    padding-top: 45pxpx;
     width: 100%;
     height: 100%; /*use vh 版面變超怪*/ 
     background-color: #eac475;
